@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gcal2ics-ui/static/css/main.acfb42fb.chunk.css",
+    "main.js": "/gcal2ics-ui/static/js/main.0daad9fc.chunk.js",
+    "main.js.map": "/gcal2ics-ui/static/js/main.0daad9fc.chunk.js.map",
+    "runtime-main.js": "/gcal2ics-ui/static/js/runtime-main.82d1c84d.js",
+    "runtime-main.js.map": "/gcal2ics-ui/static/js/runtime-main.82d1c84d.js.map",
+    "static/js/2.1bcf8b47.chunk.js": "/gcal2ics-ui/static/js/2.1bcf8b47.chunk.js",
+    "static/js/2.1bcf8b47.chunk.js.map": "/gcal2ics-ui/static/js/2.1bcf8b47.chunk.js.map",
+    "static/js/3.e45f6ec3.chunk.js": "/gcal2ics-ui/static/js/3.e45f6ec3.chunk.js",
+    "static/js/3.e45f6ec3.chunk.js.map": "/gcal2ics-ui/static/js/3.e45f6ec3.chunk.js.map",
+    "index.html": "/gcal2ics-ui/index.html",
+    "static/css/main.acfb42fb.chunk.css.map": "/gcal2ics-ui/static/css/main.acfb42fb.chunk.css.map",
+    "static/js/2.1bcf8b47.chunk.js.LICENSE.txt": "/gcal2ics-ui/static/js/2.1bcf8b47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82d1c84d.js",
+    "static/js/2.1bcf8b47.chunk.js",
+    "static/css/main.acfb42fb.chunk.css",
+    "static/js/main.0daad9fc.chunk.js"
+  ]
+}
