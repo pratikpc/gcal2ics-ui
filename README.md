@@ -1,5 +1,19 @@
-# Getting Started with Create React App
+# [Google Calendar Embedded Link to iCALs](https://pratikpc.github.io/gcal2ics-ui/)
 
+## Sample Screenshots
+![Sample Screenshot](/docs/ui.png 'Sample Screenshot')
+
+## Implementated with
+1. [gcal2ics](https://github.com/pratikpc/gcal2ics)  
+This is a proof of concept implementation library
+2. [TypeScript](https://www.typescriptlang.org/)
+3. [React](https://reactjs.org/)
+4. [Material UI](https://material-ui.com/)  
+Helps us design kick-ass UIs
+
+---
+
+## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
